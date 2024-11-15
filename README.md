@@ -1,2 +1,3 @@
 Nombre de los compañeros
-Miguel Blanco Lopez
+Antonio Núñez Cozar
+Nicolas Villanueva Ortega
