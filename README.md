@@ -44,7 +44,8 @@ información del proyecto de Github obtenida desde la opción menú "Insights→
 
 Relación de Pull Requests realizadas cerradas.
 
-![prqst](https://github.com/user-attachments/assets/5b9a4342-d606-4814-8784-391b88458d85)
+![2](https://github.com/user-attachments/assets/8880fd70-9559-4680-8a9e-b7758c03388d)
+
 
 
 
