@@ -1,23 +1,51 @@
-![header](https://cloud.githubusercontent.com/assets/6546265/22174630/785cdf04-dfe3-11e6-8cf4-024e8dc1c051.png)
+PRACTICA 3
+    - ANTONIO NUÑEZ COZAR
+    - NICOLÁS VILLANUEVA ORTEGA
 
-[![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
-[![Build Status](https://travis-ci.org/davidmigloz/go-bees.svg?branch=master)](https://travis-ci.org/davidmigloz/go-bees)
-[![codecov](https://codecov.io/gh/davidmigloz/go-bees/branch/master/graph/badge.svg)](https://codecov.io/gh/davidmigloz/go-bees)
-[![Code Climate](https://codeclimate.com/github/davidmigloz/go-bees/badges/gpa.svg)](https://codeclimate.com/github/davidmigloz/go-bees)
-[![SonarQube](https://sonarqube.com/api/badges/gate?key=go-bees)](https://sonarqube.com/component_measures/?id=go-bees)
-[![Dependency Status](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33)
-[![Documentation Status](https://readthedocs.org/projects/go-bees/badge/?version=develop)](http://go-bees.readthedocs.io/es/develop/?badge=develop)
+Guía de como se realizan toda la secuencia de acciones desde que nos posicionamos en un nuevo commit del repositorio Go Bees hasta que pasa a estar visible en nuestra rama master local.
 
-## License
+GO BEES (GK) --> Posicionarse en el commit para subir cambios (right clik, restet master to this commit, hard)
 
-Copyright (c) 2016 - 2017 David Miguel Lozano
+P3 (GK) --> Tener master al día y estar posicionado en MASTER
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-any later version.
+P3 (GH) --> Crear rama a partir de tarea con nombre = GO BEES (antes master tiene que estar al día en local y remoto)
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+P3 (GK) --> Posicionarse en rama en local (en gitKraken tendría que aparecer la nueva rama en el remoto, doble click y la sube a local)
+
+ARCHIVOS --> Añadir cambios de carpeta de Go bees a carpeta P3 (copiamos todos los archivos de go-bees a P3)
+
+P3 (GK) --> View Stages, Stage All Changes, Nombre (Tarea), Commit
+
+P3 (GK) --> Fech All + (Pull si hay cambios, no los va a haber) + Push
+
+P3 (GH) --> Nos vamos a Git Hub, Pull Request, Le damos a compare & pull request de la rama, creamos y mergueamos
+
+P3 (GK) --> Me posiciono en master en local(doble click master), Fetch All y después Pull (el primero de ellos)
+
+Imágen de la lista de commits del repositorio:
+
+![image](https://github.com/user-attachments/assets/a9c877b1-a289-4860-a58d-22d7094b11c4)
+
+Primer commit del repositorio. El primer commit fue el del archivo de autores pero es poco informativo. El segundo fue el priemr Ad Cd Cover 173 pero este commit fue incorrecto. Por lo que se muestra el primer commit en si de la secuencia (el tercero realizado en el repositorio).
+
+![image](https://github.com/user-attachments/assets/282565c6-d224-4134-acf1-4b2aaf347694)
+
+Último commit del repositorio. Nosotros hicimos el Minor Changes como último commit.
+
+![image](https://github.com/user-attachments/assets/5fb60723-0e37-4240-a798-3b5786d724e4)
+
+Información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse".
+
+![image](https://github.com/user-attachments/assets/10728e43-9be7-462e-ad13-963a534b4890)
+
+información del proyecto de Github obtenida desde la opción menú "Insights→ Code frequency".
+
+![image](https://github.com/user-attachments/assets/098f1ccf-9bf6-40eb-971d-ec7973cd6e7c)
+
+Relación de Pull Requests realizadas cerradas.
+
+![prqst](https://github.com/user-attachments/assets/5b9a4342-d606-4814-8784-391b88458d85)
+
+
+
+
